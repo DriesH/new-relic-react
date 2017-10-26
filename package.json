@@ -9,7 +9,7 @@
       "email": "daniele@wanderio.com"
     }
   ],
-  "main": "./src/index.js",
+  "main": "./lib/bundle.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/wanderio/new-relic-react"
